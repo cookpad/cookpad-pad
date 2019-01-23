@@ -1,0 +1,15 @@
+[submodule "MX_Alps_Hybrid.pretty"]
+	path = MX_Alps_Hybrid.pretty
+	url = git@github.com:ai03-2725/MX_Alps_Hybrid.pretty.git
+[submodule "random-keyboard-parts.pretty"]
+	path = random-keyboard-parts.pretty
+	url = git@github.com:ai03-2725/random-keyboard-parts.pretty.git
+[submodule "Keebio-Parts.pretty"]
+	path = Keebio-Parts.pretty
+	url = git@github.com:keebio/Keebio-Parts.pretty.git
+[submodule "keebio-components"]
+	path = keebio-components
+	url = git@github.com:keebio/keebio-components.git
+[submodule "kbd"]
+	path = kbd
+	url = git@github.com:foostan/kbd.git
