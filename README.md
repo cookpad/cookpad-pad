@@ -31,11 +31,11 @@ $ make cookpad_pad:default:avrdude
 ### Build Steps
 
 1. Solder components
-  - Solder diodes
-  - Solder Pro Micro
-  - Solder push button
+      - Solder diodes
+      - Solder Pro Micro
+      - Solder push button
 2. Fix spacers with screw
 3. Solder swiches
-  - Put switches into a plate
-  - Solder switches
+      - Put switches into a plate
+      - Solder switches
 4. Fix a bottom plate with screws
