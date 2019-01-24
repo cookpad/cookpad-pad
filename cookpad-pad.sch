@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:cookpad-pad-cache
 EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
@@ -41,7 +42,7 @@ U 1 1 5C39232E
 P 4825 2300
 F 0 "D1" H 4825 2375 50  0000 R CNN
 F 1 "D_Small" H 5150 2375 50  0000 R CNN
-F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 4825 2300 50  0001 C CNN
+F 2 "Cookpad-Pad:D3_TH_SMD" V 4825 2300 50  0001 C CNN
 F 3 "~" V 4825 2300 50  0001 C CNN
 	1    4825 2300
 	0    -1   -1   0   
@@ -69,7 +70,7 @@ U 1 1 5C392A69
 P 5425 2300
 F 0 "D2" H 5425 2375 50  0000 R CNN
 F 1 "D_Small" H 5750 2375 50  0000 R CNN
-F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 5425 2300 50  0001 C CNN
+F 2 "Cookpad-Pad:D3_TH_SMD" V 5425 2300 50  0001 C CNN
 F 3 "~" V 5425 2300 50  0001 C CNN
 	1    5425 2300
 	0    -1   -1   0   
@@ -97,7 +98,7 @@ U 1 1 5C392C26
 P 6025 2300
 F 0 "D3" H 6025 2375 50  0000 R CNN
 F 1 "D_Small" H 6350 2375 50  0000 R CNN
-F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 6025 2300 50  0001 C CNN
+F 2 "Cookpad-Pad:D3_TH_SMD" V 6025 2300 50  0001 C CNN
 F 3 "~" V 6025 2300 50  0001 C CNN
 	1    6025 2300
 	0    -1   -1   0   
@@ -125,7 +126,7 @@ U 1 1 5C3932A0
 P 4825 3050
 F 0 "D4" H 4825 3125 50  0000 R CNN
 F 1 "D_Small" H 5150 3125 50  0000 R CNN
-F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 4825 3050 50  0001 C CNN
+F 2 "Cookpad-Pad:D3_TH_SMD" V 4825 3050 50  0001 C CNN
 F 3 "~" V 4825 3050 50  0001 C CNN
 	1    4825 3050
 	0    -1   -1   0   
@@ -153,7 +154,7 @@ U 1 1 5C3932B2
 P 5425 3050
 F 0 "D5" H 5425 3125 50  0000 R CNN
 F 1 "D_Small" H 5750 3125 50  0000 R CNN
-F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 5425 3050 50  0001 C CNN
+F 2 "Cookpad-Pad:D3_TH_SMD" V 5425 3050 50  0001 C CNN
 F 3 "~" V 5425 3050 50  0001 C CNN
 	1    5425 3050
 	0    -1   -1   0   
@@ -181,7 +182,7 @@ U 1 1 5C3932C4
 P 6025 3050
 F 0 "D6" H 6025 3125 50  0000 R CNN
 F 1 "D_Small" H 6350 3125 50  0000 R CNN
-F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 6025 3050 50  0001 C CNN
+F 2 "Cookpad-Pad:D3_TH_SMD" V 6025 3050 50  0001 C CNN
 F 3 "~" V 6025 3050 50  0001 C CNN
 	1    6025 3050
 	0    -1   -1   0   
@@ -279,7 +280,7 @@ U 1 1 5C3993BF
 P 1975 3800
 F 0 "J1" H 1895 3475 50  0000 C CNN
 F 1 "LED" H 1895 3566 50  0000 C CNN
-F 2 "Connector_Wire:SolderWirePad_1x03_P3.175mm_Drill1mm" H 1975 3800 50  0001 C CNN
+F 2 "Cookpad-Pad:LED_Strip" H 1975 3800 50  0001 C CNN
 F 3 "~" H 1975 3800 50  0001 C CNN
 	1    1975 3800
 	-1   0    0    1   
