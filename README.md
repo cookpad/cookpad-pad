@@ -6,7 +6,7 @@ A six keys macro pad made by Cookpad.
 
 ## Firmware
 
-Clone [QMK](https://github.com/takai/qmk_firmware/tree/cookpad-pad) repositories and setup build environment.
+Clone [forked QMK](https://github.com/takai/qmk_firmware/tree/cookpad-pad) repositories and setup build environment.
 Then type following command:
 
 ```
@@ -21,21 +21,24 @@ $ make cookpad_pad:default:avrdude
 - 1 Acrylic switch plate
 - 1 Acrylic bottom plate
 - 1 Pro Micro
-- 6 1N4148W diodes
+- 6 1N4148 diodes
 - 6 Keyboard Swiches
 - 1 Tact switch
 - 4 M2 5mm spacer
 - 8 M2 Screws
 - 4 Rubber feet
+- 1 (Option) WS2812B RGB LED strip
 
 ### Build Steps
 
 1. Solder components
       - Solder diodes
       - Solder Pro Micro
-      - Solder push button
+      - Solder tact switch
 2. Fix spacers with screw
 3. Solder swiches
       - Put switches into a plate
       - Solder switches
 4. Fix a bottom plate with screws
+
+![](docs/images/assembly-sample.jpg)
