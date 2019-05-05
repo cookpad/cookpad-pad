@@ -52,7 +52,7 @@ $ make cookpad_pad:default:avrdude
 
 ### ピンヘッダのはんだ付け
 
-Pro Micro の袋からピンヘッダを取り出し、裏面にピンヘッダを取り付け、表面からはんだ付けをします。
+Pro Micro の袋からピンヘッダを取り出し、表面にピンヘッダを取り付け、裏面からはんだ付けをします。
 
 ![](https://raw.githubusercontent.com/cookpad/cookpad-pad/master/docs/images/bg-step2-1.jpg)
 
@@ -70,7 +70,7 @@ Pro Micro の袋からピンヘッダを取り出し、裏面にピンヘッダ�
 
 ### リセットスイッチのはんだ付け
 
-リセットスイッチを裏面に取り付け、表面からはんだ付けをします。
+リセットスイッチを表面に取り付け、裏面からはんだ付けをします。
 
 ![](https://raw.githubusercontent.com/cookpad/cookpad-pad/master/docs/images/bg-step4.jpg)
 
