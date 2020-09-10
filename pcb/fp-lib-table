@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name MX_Only)(type KiCad)(uri ${KIPRJMOD}/lib/MX_Alps_Hybrid/MX_Only.pretty)(options "")(descr ""))
+  (lib (name random-keyboard-parts)(type KiCad)(uri ${KIPRJMOD}/lib/random-keyboard-parts.pretty)(options "")(descr ""))
+  (lib (name Type-C)(type KiCad)(uri ${KIPRJMOD}/lib/Type-C.pretty)(options "")(descr ""))
+  (lib (name Cookpad)(type KiCad)(uri ${KIPRJMOD}/lib/Cookpad.pretty)(options "")(descr ""))
+)
